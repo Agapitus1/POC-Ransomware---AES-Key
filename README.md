@@ -1,4 +1,3 @@
-![Logo](RanSim.png)
 
 ## Description
 
@@ -34,6 +33,3 @@ You can use RanSim to test your defenses and backups against real ransomware-lik
 
 `TargetFiles` -> .pdf .xls* .ppt* .doc* .accd* .rtf .txt .csv .jpg .jpeg .png .gif .avi .midi .mov mp3 .mp4 .mpeg .mpeg2 .mpeg3 .mpg .ogg
 
-## Credits
-
-The author of the [FileCryptography.psm1](FileCryptography.psm1) is Tyler Siegrist, and he is also credited in the module's docstring.
